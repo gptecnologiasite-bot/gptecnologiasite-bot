@@ -13,12 +13,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gptecnologiasite-bot&theme=radical&hide_border=true" alt="Sequência GitHub" />
 </p>
 
-### 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gptecnologiasite-bot&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=8&column=4" alt="Troféus" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gptecnologiasite-bot&theme=radical&hide_border=true&layout=compact" alt="WakaTime" />
 </p>
