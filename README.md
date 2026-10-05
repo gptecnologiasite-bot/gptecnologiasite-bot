@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Humberto+%F0%9F%91%8B;Full+Stack+Developer;Passionate+about+clean+code+and+automation;Turning+coffee+into+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+o+Humberto+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Apaixonado+por+c%C3%B3digo+limpo+e+automa%C3%A7%C3%A3o;Transformando+caf%C3%A9+em+software" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gptecnologiasite-bot&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gptecnologiasite-bot&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gptecnologiasite-bot&layout=compact&theme=radical&hide_border=true" alt="Principais Linguagens" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gptecnologiasite-bot&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gptecnologiasite-bot&theme=radical&hide_border=true" alt="Sequência GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gptecnologiasite-bot&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gptecnologiasite-bot&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Troféus" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gptecnologiasite-bot/gptecnologiasite-bot/output/snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/gptecnologiasite-bot/gptecnologiasite-bot/output/snake.svg" alt="Animação Snake" />
 </p>
 
 <p align="center">
@@ -24,23 +24,23 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Citação Aleatória" />
 </p>
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=gptecnologiasite-bot&cover_image=true&theme=radical&show_offline=false&background_color=1a1a2e&bar_color=00d9ff&bar_color_cover=false" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=gptecnologiasite-bot&cover_image=true&theme=radical&show_offline=false&background_color=1a1a2e&bar_color=00d9ff&bar_color_cover=false" alt="Spotify Tocando Agora" />
 </p>
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Stack Tecnológica
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,go,rust,docker,kubernetes,aws,postgres,mongodb,redis,git,github,vscode,figma" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projetos em Destaque
 
 <table>
 <tr>
@@ -51,9 +51,9 @@
   <br />
   <sub><b>projeto-1</b></sub>
   <br />
-  <img src="https://img.shields.io/github/stars/gptecnologiasite-bot/projeto-1?style=flat-square&color=00D9FF" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/gptecnologiasite-bot/projeto-1?style=flat-square&color=00D9FF" alt="Estrelas" />
   <img src="https://img.shields.io/github/forks/gptecnologiasite-bot/projeto-1?style=flat-square&color=00D9FF" alt="Forks" />
-  <img src="https://img.shields.io/github/last-commit/gptecnologiasite-bot/projeto-1?style=flat-square&color=00D9FF" alt="Last commit" />
+  <img src="https://img.shields.io/github/last-commit/gptecnologiasite-bot/projeto-1?style=flat-square&color=00D9FF" alt="Último commit" />
   <br />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -66,9 +66,9 @@
   <br />
   <sub><b>projeto-2</b></sub>
   <br />
-  <img src="https://img.shields.io/github/stars/gptecnologiasite-bot/projeto-2?style=flat-square&color=00D9FF" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/gptecnologiasite-bot/projeto-2?style=flat-square&color=00D9FF" alt="Estrelas" />
   <img src="https://img.shields.io/github/forks/gptecnologiasite-bot/projeto-2?style=flat-square&color=00D9FF" alt="Forks" />
-  <img src="https://img.shields.io/github/last-commit/gptecnologiasite-bot/projeto-2?style=flat-square&color=00D9FF" alt="Last commit" />
+  <img src="https://img.shields.io/github/last-commit/gptecnologiasite-bot/projeto-2?style=flat-square&color=00D9FF" alt="Último commit" />
   <br />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -81,9 +81,9 @@
   <br />
   <sub><b>projeto-3</b></sub>
   <br />
-  <img src="https://img.shields.io/github/stars/gptecnologiasite-bot/projeto-3?style=flat-square&color=00D9FF" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/gptecnologiasite-bot/projeto-3?style=flat-square&color=00D9FF" alt="Estrelas" />
   <img src="https://img.shields.io/github/forks/gptecnologiasite-bot/projeto-3?style=flat-square&color=00D9FF" alt="Forks" />
-  <img src="https://img.shields.io/github/last-commit/gptecnologiasite-bot/projeto-3?style=flat-square&color=00D9FF" alt="Last commit" />
+  <img src="https://img.shields.io/github/last-commit/gptecnologiasite-bot/projeto-3?style=flat-square&color=00D9FF" alt="Último commit" />
   <br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -93,34 +93,34 @@
 </table>
 
 <details>
-<summary><b>📋 How to customize (click to expand)</b></summary>
+<summary><b>📋 Como personalizar (clique para expandir)</b></summary>
 
-Replace `projeto-1`, `projeto-2`, `projeto-3` with your **actual repo names**.
+Substitua `projeto-1`, `projeto-2`, `projeto-3` pelos nomes dos **seus repos reais**.
 
-For each project, adjust:
-- **Repo URL** in `href` and badges
-- **Language badges** (swap React/Node/Go/Python for what you use)
-- **Description** appears automatically via `api/pin` (pulls from repo's `description` on GitHub)
+Para cada projeto, ajuste:
+- **URL do repo** no `href` e nas badges
+- **Badges de linguagem** (troque React/Node/Go/Python pelos que você usa)
+- **Descrição** aparece automaticamente via `api/pin` (puxa do `description` do repo no GitHub)
 
 </details>
 
 ---
 
-### 📊 Recent Activity
+### 📊 Atividade Recente
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gptecnologiasite-bot&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gptecnologiasite-bot&theme=radical&hide_border=true&area=true&locale=pt" alt="Gráfico de Atividade" />
 </p>
 
 ---
 
-### 📝 Latest Blog Posts
+### 📝 Últimos Posts do Blog
 <p align="center">
-  <img src="https://blog-posts-github-readme.vercel.app/api?username=gptecnologiasite-bot&limit=5&theme=radical" alt="Blog Posts" />
+  <img src="https://blog-posts-github-readme.vercel.app/api?username=gptecnologiasite-bot&limit=5&theme=radical" alt="Posts do Blog" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 📫 Onde me encontrar
 <p align="center">
   <a href="https://linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -129,7 +129,7 @@ For each project, adjust:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gptecnologiasite-bot&color=00D9FF&style=flat-square&label=Visitors" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=gptecnologiasite-bot&color=00D9FF&style=flat-square&label=Visitantes" alt="Visitantes" />
 </p>
 
 ---
@@ -141,14 +141,14 @@ For each project, adjust:
 ---
 
 <details>
-<summary><b>⚙️ Required Setup (click to expand)</b></summary>
+<summary><b>⚙️ Configurações necessárias (clique para expandir)</b></summary>
 
-| Feature | What to Configure |
-|---------|-------------------|
-| **WakaTime** | Create account at [wakatime.com](https://wakatime.com), install IDE plugin, add `WAKATIME_API_KEY` to repo Secrets |
-| **Snake Animation** | Add workflow `.github/workflows/snake.yml` (action `platane/snk`) |
-| **Spotify** | Create app at [Spotify Developer](https://developer.spotify.com), get `SPOTIFY_CLIENT_ID` and `SPOTIFY_CLIENT_SECRET`, add to Secrets |
-| **Blog Posts** | Have a blog with RSS/Atom feed, configure URL in service or use custom action |
-| **Trophies/Quotes/Activity** | Work automatically with username |
+| Feature | O que precisa configurar |
+|---------|-------------------------|
+| **WakaTime** | Criar conta em [wakatime.com](https://wakatime.com), instalar plugin na IDE, adicionar `WAKATIME_API_KEY` nos Secrets do repo |
+| **Snake Animation** | Adicionar workflow `.github/workflows/snake.yml` (action `platane/snk`) |
+| **Spotify** | Criar app no [Spotify Developer](https://developer.spotify.com), pegar `SPOTIFY_CLIENT_ID` e `SPOTIFY_CLIENT_SECRET`, adicionar nos Secrets |
+| **Blog Posts** | Ter um blog com RSS/Atom feed, configurar URL no serviço ou usar action personalizada |
+| **Trophies/Quotes/Activity** | Funcionam automático com username |
 
 </details>
