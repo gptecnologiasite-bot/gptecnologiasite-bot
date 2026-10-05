@@ -27,49 +27,48 @@
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-  <a href="https://github.com/gptecnologiasite-bot/projeto-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gptecnologiasite-bot&repo=projeto-1&theme=radical&show_owner=false&hide_border=true" alt="projeto-1" />
+  <a href="https://github.com/gptecnologiasite-bot/Editor-de-Musica">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gptecnologiasite-bot&repo=Editor-de-Musica&theme=radical&show_owner=false&hide_border=true" alt="Editor-de-Musica" />
   </a>
   <br />
-  <sub><b>projeto-1</b></sub>
+  <sub><b>Editor-de-Musica</b></sub>
   <br />
-  <img src="https://img.shields.io/github/stars/gptecnologiasite-bot/projeto-1?style=flat-square&color=00D9FF" alt="Estrelas" />
-  <img src="https://img.shields.io/github/forks/gptecnologiasite-bot/projeto-1?style=flat-square&color=00D9FF" alt="Forks" />
-  <img src="https://img.shields.io/github/last-commit/gptecnologiasite-bot/projeto-1?style=flat-square&color=00D9FF" alt="Último commit" />
+  <img src="https://img.shields.io/github/stars/gptecnologiasite-bot/Editor-de-Musica?style=flat-square&color=00D9FF" alt="Estrelas" />
+  <img src="https://img.shields.io/github/forks/gptecnologiasite-bot/Editor-de-Musica?style=flat-square&color=00D9FF" alt="Forks" />
+  <img src="https://img.shields.io/github/last-commit/gptecnologiasite-bot/Editor-de-Musica?style=flat-square&color=00D9FF" alt="Último commit" />
   <br />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Editor%20de%20M%C3%BAsica-FF6B6B?style=flat-square&logo=music&logoColor=white" />
 </td>
 <td width="33%" align="center" valign="top">
-  <a href="https://github.com/gptecnologiasite-bot/projeto-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gptecnologiasite-bot&repo=projeto-2&theme=radical&show_owner=false&hide_border=true" alt="projeto-2" />
+  <a href="https://github.com/gptecnologiasite-bot/jarvis-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gptecnologiasite-bot&repo=jarvis-system&theme=radical&show_owner=false&hide_border=true" alt="jarvis-system" />
   </a>
   <br />
-  <sub><b>projeto-2</b></sub>
+  <sub><b>jarvis-system</b></sub>
   <br />
-  <img src="https://img.shields.io/github/stars/gptecnologiasite-bot/projeto-2?style=flat-square&color=00D9FF" alt="Estrelas" />
-  <img src="https://img.shields.io/github/forks/gptecnologiasite-bot/projeto-2?style=flat-square&color=00D9FF" alt="Forks" />
-  <img src="https://img.shields.io/github/last-commit/gptecnologiasite-bot/projeto-2?style=flat-square&color=00D9FF" alt="Último commit" />
+  <img src="https://img.shields.io/github/stars/gptecnologiasite-bot/jarvis-system?style=flat-square&color=00D9FF" alt="Estrelas" />
+  <img src="https://img.shields.io/github/forks/gptecnologiasite-bot/jarvis-system?style=flat-square&color=00D9FF" alt="Forks" />
+  <img src="https://img.shields.io/github/last-commit/gptecnologiasite-bot/jarvis-system?style=flat-square&color=00D9FF" alt="Último commit" />
   <br />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/AI%20Agent-FF6B6B?style=flat-square&logo=robot&logoColor=white" />
 </td>
 <td width="33%" align="center" valign="top">
-  <a href="https://github.com/gptecnologiasite-bot/projeto-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gptecnologiasite-bot&repo=projeto-3&theme=radical&show_owner=false&hide_border=true" alt="projeto-3" />
+  <a href="https://github.com/gptecnologiasite-bot/smart-lower-thirds-pt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gptecnologiasite-bot&repo=smart-lower-thirds-pt&theme=radical&show_owner=false&hide_border=true" alt="smart-lower-thirds-pt" />
   </a>
   <br />
-  <sub><b>projeto-3</b></sub>
+  <sub><b>smart-lower-thirds-pt</b></sub>
   <br />
-  <img src="https://img.shields.io/github/stars/gptecnologiasite-bot/projeto-3?style=flat-square&color=00D9FF" alt="Estrelas" />
-  <img src="https://img.shields.io/github/forks/gptecnologiasite-bot/projeto-3?style=flat-square&color=00D9FF" alt="Forks" />
-  <img src="https://img.shields.io/github/last-commit/gptecnologiasite-bot/projeto-3?style=flat-square&color=00D9FF" alt="Último commit" />
+  <img src="https://img.shields.io/github/stars/gptecnologiasite-bot/smart-lower-thirds-pt?style=flat-square&color=00D9FF" alt="Estrelas" />
+  <img src="https://img.shields.io/github/forks/gptecnologiasite-bot/smart-lower-thirds-pt?style=flat-square&color=00D9FF" alt="Forks" />
+  <img src="https://img.shields.io/github/last-commit/gptecnologiasite-bot/smart-lower-thirds-pt?style=flat-square&color=00D9FF" alt="Último commit" />
   <br />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/OBS%20Studio-000000?style=flat-square&logo=obsstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lower%20Thirds-FF6B6B?style=flat-square&logo=broadcast&logoColor=white" />
 </td>
 </tr>
 </table>
@@ -77,11 +76,11 @@
 <details>
 <summary><b>📋 Como personalizar (clique para expandir)</b></summary>
 
-Substitua `projeto-1`, `projeto-2`, `projeto-3` pelos nomes dos **seus repos reais**.
+Substitua os repos acima pelos que quiser destacar.
 
 Para cada projeto, ajuste:
 - **URL do repo** no `href` e nas badges
-- **Badges de linguagem** (troque React/Node/Go/Python pelos que você usa)
+- **Badges de linguagem/tech** (use https://shields.io para criar)
 - **Descrição** aparece automaticamente via `api/pin` (puxa do `description` do repo no GitHub)
 
 </details>
