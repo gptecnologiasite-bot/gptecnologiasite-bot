@@ -14,10 +14,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gptecnologiasite-bot&theme=radical&hide_border=true&layout=compact" alt="WakaTime" />
-</p>
-
-<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Citação Aleatória" />
 </p>
 
