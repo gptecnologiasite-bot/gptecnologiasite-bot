@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+o+Humberto+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Apaixonado+por+c%C3%B3digo+limpo+e+automa%C3%A7%C3%A3o;Transformando+caf%C3%A9+em+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+o+Humberto+Ribeiro+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Apaixonado+por+c%C3%B3digo+limpo+e+automa%C3%A7%C3%A3o;Transformando+caf%C3%A9+em+software" alt="Typing SVG" />
 </p>
 
 ### 📈 Estatísticas do GitHub do Humberto Ribeiro
