@@ -20,10 +20,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gptecnologiasite-bot/gptecnologiasite-bot/output/snake.svg" alt="Animação Snake" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gptecnologiasite-bot&theme=radical&hide_border=true&layout=compact" alt="WakaTime" />
 </p>
 
