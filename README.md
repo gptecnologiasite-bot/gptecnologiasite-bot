@@ -12,11 +12,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gptecnologiasite-bot&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gptecnologiasite-bot&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Troféus" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gptecnologiasite-bot/gptecnologiasite-bot/output/snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/gptecnologiasite-bot/gptecnologiasite-bot/output/snake.svg" alt="Animação Snake" />
 </p>
 
 <p align="center">
@@ -24,16 +24,16 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Citação Aleatória" />
 </p>
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=gptecnologiasite-bot&cover_image=true&theme=radical&show_offline=false&background_color=1a1a2e&bar_color=00d9ff&bar_color_cover=false" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=gptecnologiasite-bot&cover_image=true&theme=radical&show_offline=false&background_color=1a1a2e&bar_color=00d9ff&bar_color_cover=false" alt="Spotify Tocando Agora" />
 </p>
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Stack Tecnológica
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,go,rust,docker,kubernetes,aws,postgres,mongodb,redis,git,github,vscode,figma" />
 </p>
@@ -41,8 +41,8 @@
 ---
 
 ### 🚀 Projetos em Destaque
-| Projeto | Descrição | Tech |
-|---------|-----------|------|
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
 | **[projeto-1](https://github.com/gptecnologiasite-bot/projeto-1)** | Descrição curta do projeto | `React` `Node` `PostgreSQL` |
 | **[projeto-2](https://github.com/gptecnologiasite-bot/projeto-2)** | Descrição curta do projeto | `Go` `Docker` `Kubernetes` |
 | **[projeto-3](https://github.com/gptecnologiasite-bot/projeto-3)** | Descrição curta do projeto | `Python` `FastAPI` `Redis` |
@@ -51,14 +51,14 @@
 
 ### 📊 Atividade Recente
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gptecnologiasite-bot&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gptecnologiasite-bot&theme=radical&hide_border=true&area=true&locale=pt" alt="Gráfico de Atividade" />
 </p>
 
 ---
 
 ### 📝 Últimos Posts do Blog
 <p align="center">
-  <img src="https://blog-posts-github-readme.vercel.app/api?username=gptecnologiasite-bot&limit=5&theme=radical" alt="Blog Posts" />
+  <img src="https://blog-posts-github-readme.vercel.app/api?username=gptecnologiasite-bot&limit=5&theme=radical" alt="Posts do Blog" />
 </p>
 
 ---
