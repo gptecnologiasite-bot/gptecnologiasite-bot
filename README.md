@@ -143,12 +143,12 @@ Para cada projeto, ajuste:
 <details>
 <summary><b>⚙️ Configurações necessárias (clique para expandir)</b></summary>
 
-| Feature | O que precisa configurar |
+| Recurso | O que precisa configurar |
 |---------|-------------------------|
 | **WakaTime** | Criar conta em [wakatime.com](https://wakatime.com), instalar plugin na IDE, adicionar `WAKATIME_API_KEY` nos Secrets do repo |
 | **Snake Animation** | Adicionar workflow `.github/workflows/snake.yml` (action `platane/snk`) |
 | **Spotify** | Criar app no [Spotify Developer](https://developer.spotify.com), pegar `SPOTIFY_CLIENT_ID` e `SPOTIFY_CLIENT_SECRET`, adicionar nos Secrets |
 | **Blog Posts** | Ter um blog com RSS/Atom feed, configurar URL no serviço ou usar action personalizada |
-| **Trophies/Quotes/Activity** | Funcionam automático com username |
+| **Trophies/Quotes/Activity** | Funcionam automaticamente com username |
 
 </details>
