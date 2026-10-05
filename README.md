@@ -41,11 +41,68 @@
 ---
 
 ### 🚀 Projetos em Destaque
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| **[projeto-1](https://github.com/gptecnologiasite-bot/projeto-1)** | Descrição curta do projeto | `React` `Node` `PostgreSQL` |
-| **[projeto-2](https://github.com/gptecnologiasite-bot/projeto-2)** | Descrição curta do projeto | `Go` `Docker` `Kubernetes` |
-| **[projeto-3](https://github.com/gptecnologiasite-bot/projeto-3)** | Descrição curta do projeto | `Python` `FastAPI` `Redis` |
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+  <a href="https://github.com/gptecnologiasite-bot/projeto-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gptecnologiasite-bot&repo=projeto-1&theme=radical&show_owner=false&hide_border=true" alt="projeto-1" />
+  </a>
+  <br />
+  <sub><b>projeto-1</b></sub>
+  <br />
+  <img src="https://img.shields.io/github/stars/gptecnologiasite-bot/projeto-1?style=flat-square&color=00D9FF" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/gptecnologiasite-bot/projeto-1?style=flat-square&color=00D9FF" alt="Forks" />
+  <img src="https://img.shields.io/github/last-commit/gptecnologiasite-bot/projeto-1?style=flat-square&color=00D9FF" alt="Último commit" />
+  <br />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</td>
+<td width="33%" align="center" valign="top">
+  <a href="https://github.com/gptecnologiasite-bot/projeto-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gptecnologiasite-bot&repo=projeto-2&theme=radical&show_owner=false&hide_border=true" alt="projeto-2" />
+  </a>
+  <br />
+  <sub><b>projeto-2</b></sub>
+  <br />
+  <img src="https://img.shields.io/github/stars/gptecnologiasite-bot/projeto-2?style=flat-square&color=00D9FF" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/gptecnologiasite-bot/projeto-2?style=flat-square&color=00D9FF" alt="Forks" />
+  <img src="https://img.shields.io/github/last-commit/gptecnologiasite-bot/projeto-2?style=flat-square&color=00D9FF" alt="Último commit" />
+  <br />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+</td>
+<td width="33%" align="center" valign="top">
+  <a href="https://github.com/gptecnologiasite-bot/projeto-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gptecnologiasite-bot&repo=projeto-3&theme=radical&show_owner=false&hide_border=true" alt="projeto-3" />
+  </a>
+  <br />
+  <sub><b>projeto-3</b></sub>
+  <br />
+  <img src="https://img.shields.io/github/stars/gptecnologiasite-bot/projeto-3?style=flat-square&color=00D9FF" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/gptecnologiasite-bot/projeto-3?style=flat-square&color=00D9FF" alt="Forks" />
+  <img src="https://img.shields.io/github/last-commit/gptecnologiasite-bot/projeto-3?style=flat-square&color=00D9FF" alt="Último commit" />
+  <br />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📋 Como personalizar (clique para expandir)</b></summary>
+
+Substitua `projeto-1`, `projeto-2`, `projeto-3` pelos nomes dos **seus repos reais**.
+
+Para cada projeto, ajuste:
+- **URL do repo** no `href` e nas badges
+- **Badges de linguagem** (troque React/Node/Go/Python pelos que usa)
+- **Descrição** aparece automaticamente via `api/pin` (puxa do `description` do repo no GitHub)
+
+</details>
 
 ---
 
