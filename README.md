@@ -141,11 +141,12 @@
 
 ---
 
-## 📈 Atividade e Contribuições
+## 📊 Resumo de Contribuições
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gptecnologiasite-bot&theme=tokyonight&hide_border=true&area=true&locale=pt" alt="Gráfico de Atividade" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gptecnologiasite-bot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gptecnologiasite-bot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
 
 </div>
 
