@@ -1,0 +1,12 @@
+{
+  "style": "default",
+  "size": 2,
+  "colors": {
+    "snake": "#00d9ff",
+    "dots": ["#bfd6f6", "#8db6f6", "#5fa8f6", "#339af6", "#0d8bf6"]
+  },
+  "animation": {
+    "enabled": true,
+    "duration": 2
+  }
+}
