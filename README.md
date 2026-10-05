@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=gptecnologiasite-bot&cover_image=true&theme=radical&show_offline=false&background_color=1a1a2e&bar_color=00d9ff&bar_color_cover=false&recents=true" alt="Spotify Músicas Recentes" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=gptecnologiasite-bot&cover_image=true&theme=radical&show_offline=false&background_color=1a1a2e&bar_color=00d9ff&bar_color_cover=false" alt="Spotify Tocando Agora" />
 </p>
 
 ---
