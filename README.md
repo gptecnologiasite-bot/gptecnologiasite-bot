@@ -13,10 +13,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gptecnologiasite-bot&theme=radical&hide_border=true" alt="Sequência GitHub" />
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Citação Aleatória" />
-</p>
-
 ---
 
 ### 🛠 Stack Tecnológica
