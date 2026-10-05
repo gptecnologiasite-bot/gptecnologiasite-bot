@@ -20,12 +20,14 @@
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor Full Stack Sênior com experiência em **arquitetura de software**, **automação de processos** e **soluções baseadas em IA**. Atuo construindo sistemas escaláveis, microsserviços resilientes e plataformas que resolvem problemas reais de negócio.
+**Desenvolvedor Full Stack Sênior** com **8+ anos de experiência** construindo produtos digitais escaláveis. Especialista em **arquitetura de software**, **automação inteligente** e **soluções baseadas em IA Generativa**.
 
-🎯 **Foco atual:** Arquitetura limpa, Domain-Driven Design, Event-Driven Architecture, IA Generativa aplicada a produtos  
-🏗 **Experiência:** JavaScript/TypeScript (Node.js, React, Next.js), Python (FastAPI, automação), Go (microsserviços), Rust (performance crítica), Docker/Kubernetes, AWS, PostgreSQL, MongoDB, Redis  
-🤖 **IA & Automação:** Integração de LLMs, RAG, agentes autônomos, pipelines de dados, workflows n8n/automação  
-📍 **Localização:** Brasil · Disponível para oportunidades remotas (Full-time/Contract)
+🎯 **Foco Atual:** Clean Architecture, Domain-Driven Design (DDD), Event-Driven Architecture, IA Generativa aplicada a produtos reais, LLMOps  
+🏗 **Stack Principal:** JavaScript/TypeScript (Node.js, React, Next.js, NestJS), Python (FastAPI, Django, automação/IA), Go (microsserviços de alta performance), Rust (sistemas críticos), Docker/Kubernetes, AWS/GCP, PostgreSQL, MongoDB, Redis, Elasticsearch  
+🤖 **IA & Automação:** RAG avançado, Fine-tuning, Agentes Autônomos (LangGraph, AutoGen), Pipelines de Dados (Airbyte, Dagster), Workflows n8n, Prompt Engineering, Avaliação de LLMs  
+📐 **Arquitetura & Práticas:** SOLID, Clean Code, Test-Driven Development, CI/CD (GitHub Actions, GitLab CI), Observabilidade (OpenTelemetry, Grafana, Datadog), Segurança (OWASP, LGPD)  
+👥 **Liderança & Mentoria:** Tech Lead de squads ágeis, Code Reviews rigorosos, RFCs arquiteturais, Onboarding de devs, Cultura de engenharia  
+📍 **Localização:** Brasil · **Disponível para:** Remote (Full-time/Contract/Consultoria) · **Inglês:** Fluente técnico
 
 ---
 
